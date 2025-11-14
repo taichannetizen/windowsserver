@@ -5,7 +5,7 @@ display_menu() {
     echo "Please select the Windows Server or Windows version:"
     echo "1. Windows Server 2016"
     echo "2. Windows Server 2019"
-    echo "3. Windows Server 2012"
+    echo "3. Windows Server 2022"
     echo "4. Windows Server 2025"
     echo "5. Windows 10"
     echo "6. Windows 11"
